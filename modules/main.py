@@ -113,7 +113,7 @@ async def start(bot, m: Message):
             f"🌟 Welcome {m.from_user.first_name}! 🌟\n\n" +
             f"Great! You are a premium member!\n"
             f"Use button : **✨ Commands** to get started 🌟\n\n"
-            f"If you face any problem contact -  [{CREDIT}⁬](t.me/Contact_AdminSbot)\n", disable_web_page_preview=True, reply_markup=keyboard
+            f"If you face any problem contact -  [**🖤⃝𝐒𝐨𝐧𝐮**⁬](https://t.me/Contact_AdminSbot)\n", disable_web_page_preview=True, reply_markup=keyboard
         )
     else:
         await asyncio.sleep(2)
@@ -125,7 +125,7 @@ async def start(bot, m: Message):
         ])
         await start_message.edit_text(
            f" 🎉 Welcome {m.from_user.first_name} to DRM Bot! 🎉\n\n"
-           f"**You are currently using the free version.** 🆓\n\n<blockquote expandable>I'm here to make your life easier by downloading videos from your **.txt** file 📄 and uploading them directly to Telegram!</blockquote>\n\n**Want to get started? Press /id**\n\n💬 Contact : [{CREDIT}⁬](tg://openmessage?user_id={OWNER}) to Get The Subscription 🎫 and unlock the full potential of your new bot! 🔓\n", disable_web_page_preview=True, reply_markup=keyboard
+           f"**You are currently using the free version.** 🆓\n\n<blockquote expandable>I'm here to make your life easier by downloading videos from your **.txt** file 📄 and uploading them directly to Telegram!</blockquote>\n\n**Want to get started? Press /id**\n\n💬 Contact : [**🖤⃝𝐒𝐨𝐧𝐮**⁬](https://t.me/Contact_AdminSbot) to Get The Subscription 🎫 and unlock the full potential of your new bot! 🔓\n", disable_web_page_preview=True, reply_markup=keyboard
     )
 
 # .....,.....,.......,...,.......,....., .....,.....,.......,...,.......,.....,
